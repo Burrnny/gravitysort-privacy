@@ -83,4 +83,4 @@ Si cambia esta política, actualizaremos la fecha. Los cambios materiales se not
 ## 10. Contacto
 Para dudas o ejercer derechos:
 **juanmanuelchio12@gmail.com**
-**Responsable:** Juan Garrapata Jr. (México)
+**Responsable:** Juan Manuel Cornejo Chio (México)
