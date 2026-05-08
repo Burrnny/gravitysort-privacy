@@ -2,6 +2,8 @@
 
 **Última actualización:** 6 de mayo de 2026
 
+> 🇲🇽 **Español (canónica)** · 🇺🇸 [English](en/) · 🇵🇹 [Português](pt/) · 🇫🇷 [Français](fr/) · 🇩🇪 [Deutsch](de/) · 🇯🇵 [日本語](ja/)
+
 Gracias por jugar Gravity Sort ("la app", "el juego"). Esta política describe qué datos recogemos y cómo los usamos.
 
 ## 1. Datos que recogemos
